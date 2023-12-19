@@ -16,10 +16,9 @@ public class EmployeeController {
 	@PostMapping("/save")
 	public Employee SaveEmployee(@RequestBody Employee emp)
 	{
-		System.out.println("In Controller");
+		
 		return esi.saveEmployee(emp);
 	}
-	
 	
 
 }

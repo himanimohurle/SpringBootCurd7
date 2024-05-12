@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class Springbootday7Application {
 
 	public static void main(String[] args) {
-		System.out.println("I Love You Himani");
+		
 		SpringApplication.run(Springbootday7Application.class, args);
 		
 	}

@@ -11,6 +11,7 @@ public class Springbootday7Application {
 	public static void main(String[] args) {
 		System.out.println("I Love You Himani");
 		SpringApplication.run(Springbootday7Application.class, args);
+		System.out.println("Love u too Vishu");
 	}
 
 }
